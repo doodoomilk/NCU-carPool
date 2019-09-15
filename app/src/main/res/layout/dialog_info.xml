@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+加入的共乘
+詳細資料的dialog
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/dark_blue" />
+
+    <TextView
+        android:id="@+id/info_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="姓名： " />
+
+    <TextView
+        android:id="@+id/info_sex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="性別" />
+
+    <TextView
+        android:id="@+id/info_department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="科系" />
+
+    <TextView
+        android:id="@+id/info_grade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="年級" />
+
+    <TextView
+        android:id="@+id/info_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="電話" />
+
+    <TextView
+        android:id="@+id/info_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="email" />
+
+    <TextView
+        android:id="@+id/info_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="評價" />
+
+    <TextView
+        android:id="@+id/info_impeach"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="棄標次數" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="關閉"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</LinearLayout>

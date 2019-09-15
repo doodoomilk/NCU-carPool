@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876531235212",
+    "firebase_url": "https://ncucarpool-a0280.firebaseio.com",
+    "project_id": "ncucarpool-a0280",
+    "storage_bucket": "ncucarpool-a0280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876531235212:android:cc63b7a654fd93aa",
+        "android_client_info": {
+          "package_name": "even.carpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876531235212-g3cf74ms09blklpcc4ee7hu9gse5eo49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "even.carpool",
+            "certificate_hash": "D46954F533CF0E3BCEB34DE1B082159CB45ADE98"
+          }
+        },
+        {
+          "client_id": "876531235212-b890v2u18eqqavj5sd25u8fhvn8nk6pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgXcqVXla2NgwZbfnuyZUNg09EjyXTtqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876531235212-b890v2u18eqqavj5sd25u8fhvn8nk6pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

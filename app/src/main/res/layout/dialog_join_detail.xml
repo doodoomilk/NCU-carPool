@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+加入的共乘
+詳細資料的dialog
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/dark_blue" />
+
+    <TextView
+        android:id="@+id/diaj_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="主揪人： 系所+名字+性別" />
+
+    <TextView
+        android:id="@+id/diaj_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:text="評價" />
+
+    <TextView
+        android:id="@+id/diaj_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="時間" />
+
+    <TextView
+        android:id="@+id/diaj_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="起點" />
+
+    <TextView
+        android:id="@+id/diaj_start_others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="起點(補充)：無" />
+
+    <TextView
+        android:id="@+id/diaj_destination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="終點" />
+
+    <TextView
+        android:id="@+id/diaj_destination_others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="終點(補充)：無" />
+
+    <TextView
+        android:id="@+id/diaj_people"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="還需人數" />
+
+    <TextView
+        android:id="@+id/diaj_comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="備註" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/diaj_btn_look"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="查看乘客名單"
+            android:layout_toLeftOf="@+id/diaj_dropout" />
+
+        <Button
+            android:id="@+id/diaj_dropout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="退出共乘"
+            android:layout_toLeftOf="@+id/diaj_btn_cancel"
+            />
+
+        <Button
+            android:id="@+id/diaj_btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="關閉"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</LinearLayout>

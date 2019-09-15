@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+mission詳細資料的dialog
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/dark_blue" />
+
+    <TextView
+        android:id="@+id/dia_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="發起人： 系所+名字+性別" />
+
+    <TextView
+        android:id="@+id/dia_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:text="評價" />
+
+
+    <TextView
+        android:id="@+id/dia_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="時間" />
+
+    <TextView
+        android:id="@+id/dia_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="起點" />
+
+    <TextView
+        android:id="@+id/dia_start_others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="起點(補充)：無" />
+
+    <TextView
+        android:id="@+id/dia_destination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="終點" />
+
+    <TextView
+        android:id="@+id/dia_destination_others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="終點(補充)：無" />
+
+    <TextView
+        android:id="@+id/dia_people"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="還需人數" />
+
+    <TextView
+        android:id="@+id/dia_comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="備註" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/dia_btn_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="加入"
+            android:layout_toLeftOf="@+id/dia_btn_cancel"
+             />
+
+        <Button
+            android:id="@+id/dia_btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+自己發起的共乘
+詳細資料的dialog
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/dark_blue" />
+
+    <TextView
+        android:id="@+id/dial_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="主揪人： 系所+名字+性別" />
+
+    <TextView
+        android:id="@+id/dial_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:text="評價" />
+
+    <TextView
+        android:id="@+id/dial_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="時間" />
+
+    <TextView
+        android:id="@+id/dial_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="起點" />
+
+    <TextView
+        android:id="@+id/dial_start_others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="起點(補充)：無" />
+
+    <TextView
+        android:id="@+id/dial_destination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="終點" />
+
+    <TextView
+        android:id="@+id/dial_destination_others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="終點(補充)：無" />
+
+    <TextView
+        android:id="@+id/dial_people"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="還需人數" />
+
+    <TextView
+        android:id="@+id/dial_comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="4dp"
+        android:text="備註" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/dial_btn_look"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="查看乘客名單"
+            android:layout_toLeftOf="@+id/dial_btn_complete" />
+
+        <Button
+            android:id="@+id/dial_btn_complete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="共乘已完成"
+            android:layout_alignParentRight="true" />
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/dia_btn_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="刪除共乘"
+            android:layout_toLeftOf="@+id/dial_btn_cancel"
+            />
+
+        <Button
+            android:id="@+id/dial_btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="關閉"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</LinearLayout>

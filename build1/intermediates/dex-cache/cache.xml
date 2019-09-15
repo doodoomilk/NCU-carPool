@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_1efd3260875456ffed7bbb41925ee248828b471b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.3.1_1b52e52f1ef1316b34e26d8a674a64a2e359b15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c21c95722dd8cd38ba4e51eeb237fd29cdcdd842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="22207943d6bfbafcbb26e8a98fdcef4a5c519296">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2c0d5c1599d378b4cb757adb8f7aee342ce0c933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_11272bafb1eb8eb70f785725cce7388cdc67ddc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_47605199ddf9cf0c899e5df4f88c2e472fdfa9f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_cc5a5e221a7e18924334d40491c7ded8fc7196dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_2ae4361ef9e7aa0d96967b5e5987a12d20edaa96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_495ff7b7bc5f2f28329f91da4244682636a362fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_337b22ea23438a40dcda6e0c30963992a7c9710e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_63a50cd64da16d1552d35344d06051238af2a545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_646ba2d00102b08ea297692f0ecfd24247e9499f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpcore_c9922127cbd6ed052195ddad2c5deb3255525f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/libs/apache-httpcomponents-httpclient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpclient_0ae62e2163058852827af4e8668dcae2a8ad6d7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/libs/apache-httpcomponents-httpclient-cache.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="33c3e58f125530e83dfba53acb43643469d76a72">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpclient-cache_621e2cfd14e2eddf8b8b6da25c1e2870d17e5ec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b2e5ff0efc55f174cc937491c770750152d0bf43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_7d2fd1423e4f80c6a8ea1809eec024151c9a6844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_6485e9660181f20d3e39f395e3ce09c4f20d2286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_dbd16444f7a6789c7a0a9c27b70a8a4af6f6003d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_d1402dea7279c28b0f62269d99206695d741c851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_7b4987d43ff78220dcb3a14f906e7ea5afe28dc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_633c38f0413c457709bef52a4a7b3598e8acf906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_db5583660c0dfc03d833da6059ba1dfe8ba6d7f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_b3848a535bb92aea78c2f5ad7fad524758547ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ae1df5ff592c91fa802c19baba7e1eae4cd79185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_fcdcab3adaa90d9a7aa561dff860ae8e2138c14c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_94ffedb56643bf3d80afbd18080ecb51852ba492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.3.1_a6e6f49dccab1f73bfd9997ac31f9945bb81ff68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dc109cd7f4516ff0b3f4bd6d21dd26873e46efa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="820a59fca65942b71aa028633270c3291cbf2688">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5d4914a0952c981771258ec3c35cd1e2e0a8c80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_f51b16160701f224a4c101cf3577ab69c1e83e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_3aba3fa60c2148ee78ee62a97a4817d87ca0aef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_65b13f284cc9d8cf8a9f748e63f290361db80388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_22dfcfa18d908a0b0a13c3fdf2aff86a17b5b5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_b82fe162b0e2a8af47a11c58074fc361c6d2d5c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f9e061c07131a444c9e17081e34e006061aaa09f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_75e08783ecacd2ff87d945753678f197aea3b446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_a76900d59f3e27a71af89ab7803c97fdd773d142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_b190852484ec5b9fbb0bc466712d1bf4232399e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_265f0f1e1477bc0adc320f6582b902aeb1f26d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_222344b9bad8b787af90dd1704974b4645faf546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_efab29d79011262786150e3a8b6d1cea75dc5895/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_3e06b1ae128af8dbdf7102dd27e19d5b41fba08d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/even/AndroidStudioProjects/carPool/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2b38553feb797c3083ce78f7f958b693fc418429/classes.dex" />
+    </item>
+
+</items>

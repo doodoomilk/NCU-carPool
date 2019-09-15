@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NCU Carpool</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_newmission">Post a new mission</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <!-- Strings related to register -->
+    <string name="register_account">＊帳號(限中央大學信箱)</string>
+    <string name="register_password">＊密碼(6~20字元)</string>
+    <string name="register_name">＊全名(外籍生請輸入英文)</string>
+    <string name="register_department">＊科系(ex:英文系)</string>
+    <string name="register_year">＊年級(ex:大學部2年級)</string>
+    <string name="register_phone">聯絡電話(選填)</string>
+    <string name="register_email">＊常用信箱</string>
+
+    <!-- Strings related to post new mission -->
+    <string name="hint_location"><font size="14">ex:哪個出口</font></string>
+
+</resources>
