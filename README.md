@@ -3,6 +3,10 @@ My independent study in NCU
 
 See more information in [Wiki](https://github.com/doodoomilk/NCU-carPool.wiki.git) page
 
+## APP使用流程
+![](https://i.imgur.com/f5LKizk.png)
+
+## Introduction of Code
 ### MainActivity.java
 - Tab setting: 切換分頁
 - Floating button: 刊登共乘用
