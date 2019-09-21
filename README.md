@@ -1,7 +1,7 @@
 # NCU-carPool
 My independent study in NCU
-## APP Introduction
 
+See more information in [Wiki](https://github.com/doodoomilk/NCU-carPool.wiki.git) page
 
 ## Introduction of Code 
 ### MainActivity.java
