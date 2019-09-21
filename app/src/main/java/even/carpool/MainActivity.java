@@ -100,8 +100,6 @@ public class MainActivity extends AppCompatActivity
         nav_user_name.setText(settings.getString(nameField,""));
         nav_user_account.setText(settings.getString(accountField,""));
 
-
-
         //new a object of TabHost ,get xml TabHost and initialize
         TabHost tabHost = (TabHost) findViewById(R.id.tab_host);
         LocalActivityManager mLocalActivityManager = new LocalActivityManager(this, false);
@@ -117,12 +115,6 @@ public class MainActivity extends AppCompatActivity
         //set tab page to the object
         tabHost.addTab(spec);
 
-        /*TabHost.TabSpec spec2 = tabHost.newTabSpec("好友");
-        spec2.setContent(new Intent(this, friends_list.class));
-        spec2.setIndicator("好友",
-                getResources().getDrawable(android.R.drawable.ic_lock_idle_alarm));
-        tabHost.addTab(spec2);
-        */
         TabHost.TabSpec spec3 = tabHost.newTabSpec("我的共乘");
         spec3.setContent(new Intent(this, my_list.class));
         spec3.setIndicator("我的共乘",
@@ -152,17 +144,9 @@ public class MainActivity extends AppCompatActivity
         drawer.setDrawerListener(toggle);
         toggle.syncState();
 
-
-
-
-
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
-
-
-
-
     }
 
 
@@ -176,8 +160,6 @@ public class MainActivity extends AppCompatActivity
             super.onBackPressed();
         }
     }
-
-
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -261,8 +243,6 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_send) {
 
         }
-
-
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
