@@ -1,5 +1,7 @@
 package even.carpool;
-
+/*
+對主揪人評分
+*/
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

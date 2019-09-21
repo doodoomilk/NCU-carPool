@@ -124,25 +124,6 @@ public class mission_list extends Activity {
         official_count_mantime_thread.start();
 
 
-        /*sc_year = Integer.toString(c_year);
-        if (c_month<10){
-            sc_month = "0"+Integer.toString(c_month);
-           // c_month = Integer.valueOf(sc_month);
-        }else{
-            sc_month = Integer.toString(c_month);
-        }
-        if (c_day<10){
-            sc_day = "0" +Integer.toString(c_day);
-            //c_day = Integer.valueOf(sc_day);
-        }else{
-            sc_day = Integer.toString(c_day);
-        }
-        sc_hour = Integer.toString(c_hour);
-        sc_minute = Integer.toString(c_minute);
-
-        time=sc_year+"-"+sc_month+"-"+sc_day+" "+sc_hour+":"+sc_minute;*/
-
-
         btn_sort = (Button) findViewById(R.id.btn_sort);
         spinner_sort_year = (Spinner)findViewById(R.id.spinner_sort_year);
 
